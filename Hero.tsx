@@ -1,5 +1,5 @@
-import { LiquidMetalButton } from "./LiquidMetalButton"
-import { GlassButton } from "./botão-de-vidro";
+import { GlassButton } from "./GlassButton";
+import { LiquidMetalButton } from "./LiquidMetalButton";
 import { SmokeyBackground } from "@/components/ui/smokey-background"
 import { Reveal } from "@/components/ui/reveal"
 import { CHECKOUT_URL } from "@/lib/constants"
