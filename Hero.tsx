@@ -1,4 +1,4 @@
-import { LiquidMetalButton } from "./botão-de-metal-líquido"
+import { LiquidMetalButton } from "./LiquidMetalButton"
 import { GlassButton } from "@/components/ui/glass-button"
 import { SmokeyBackground } from "@/components/ui/smokey-background"
 import { Reveal } from "@/components/ui/reveal"
