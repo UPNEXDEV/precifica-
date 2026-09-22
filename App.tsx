@@ -1,15 +1,14 @@
 import { Navbar } from "./Navbar"
-import { Hero } from "./Herói"
-import { Problem } from "./Problema"
+import { Hero } from "./Hero"
+import { Problem } from "./Problem"
 import { HowItHelps } from "./HowItHelps"
 import { ProductPreview } from "./ProductPreview"
-import { Audience } from "./Audiência"
-import { Benefits } from "./Benefícios"
+import { Audience } from "./Audience"
+import { Benefits } from "./Benefits"
 import { FinalCTA } from "./FinalCTA"
 import { FAQ } from "./FAQ"
 import { Footer } from "./Footer"
 import { MobileStickyCTA } from "./MobileStickyCTA"
-
 export default function App() {
   return (
     <>
