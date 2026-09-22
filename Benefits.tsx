@@ -1,4 +1,4 @@
-import { Reveal } from "@/components/ui/reveal"
+import { Reveal } from "./reveal"
 import { SectionHeading } from "./SectionHeading"
 
 const benefits = [
