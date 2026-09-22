@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react"
 import { Menu, X } from "lucide-react"
 import { CHECKOUT_URL } from "@/lib/constants"
-import { cn } from "@/lib/utils"
+import { cn } from "./utils"
 import { Logo } from "./LogoMark"
 
 const links = [
